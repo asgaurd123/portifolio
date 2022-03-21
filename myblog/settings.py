@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-!d&5%t13(7kbzg0m)*6mec#x3yf2xp1)_t=914wus$2bz7_m8u
 DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','myfirstportfolioapp.herokuapp.com']
+STATIC_ROOTS=os.join(BASE_DIR,"static")
 
 
 # Application definition
