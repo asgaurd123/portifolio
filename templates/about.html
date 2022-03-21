@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+{% block body%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+    <style>
+        h1{
+            font-size: 80px;
+            margin-top: 40px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bolder;
+        }
+
+        .img{
+            position: relative;
+            left: 930px;
+            top: -490px;
+            width: 20px;
+            
+            
+        }
+        
+        .text{
+            width: 600px;
+            font-size:37px ;
+            font-family: 'Lato', sans-serif;
+            color: rgb(179, 177, 177);
+        }
+        .desc{
+            font-size: 20px;
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+        }
+        .mar{
+            margin-bottom: 30px;
+        }
+        .cards{
+            display: flex;
+            width: 100px;
+        }
+        .item{
+            
+            position: relative;
+            top: -450px;
+            margin-left: 120px;
+            display: flex;
+
+        }
+        .item1{
+            position: relative;
+            top: -790px;
+            left: 640px;
+        }
+        .item2{
+            position: relative;
+            width:500px;
+            height:auto;
+            top:-1125px;
+            left:1170px
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>about me</h1>
+        <div class="text">
+            <span>I'm a Ui Designer and front end devloper from Syndey,Australia</span>
+            <p class="desc mar">A remarkable About page is genuine, approachable, and distinguished. It should give the visitor a glimpse into what working with you and your business might be like. You can include personal interests, stories, and photos that convey the unique story of your business.                
+            </p>
+            <p class="desc">
+                Since About pages are creative and personal to you and your company, there are several ways to construct one, however, the process is generally the same. So, let's create an About page one step by step.
+            </p>
+        </div>
+    </div>
+    <div class="img">
+        <img src="https://media.istockphoto.com/photos/excited-woman-wearing-rainbow-cardigan-picture-id1327495437?b=1&k=20&m=1327495437&s=170667a&w=0&h=Vbl-XLyAnBoTkyGXXi-X1CFzuSHlNcn-dqB-sCosxFo=" alt="" height="600px">
+    </div>
+    <div class="cards">
+        <div class="item">
+            <img src="https://media.istockphoto.com/photos/teenager-boy-looking-through-the-window-at-home-picture-id1304075048?b=1&k=20&m=1304075048&s=170667a&w=0&h=1rLMVzHvwq9W9lAsegz9k3MukjRDt13J8gMIY8lgqDI=" alt="">
+        </div>
+    </div>
+    <div class="cards">
+        <div>
+            <img class='item1'src="https://media.istockphoto.com/photos/portrait-of-happy-family-outdoors-picture-id1155687072?b=1&k=20&m=1155687072&s=170667a&w=0&h=67YlEvYGndwQNwYqx_I60eL-kJ3CfdijONI_mLKw-18=" alt="">
+        </div>
+    </div>
+    <div class="cards">
+        <div>
+            <img class='item2'src="https://images.unsplash.com/photo-1506968695017-764f86a9f9ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJveXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" alt="" height="600px">
+        </div>
+    </div>
+</body>
+</html>
+{% endblock body %}
