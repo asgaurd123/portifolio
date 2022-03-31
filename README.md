@@ -1,3 +1,4 @@
+
 # Personal Portifolio
 
 It is a basic portifolio app fo beginers and can be easily understood this is built with the help of
@@ -54,3 +55,9 @@ I'm a aspiring full stack devlooper who is constantly learning and building new 
 ## Feedback
 
 If you have any feedback, please reach out to us at sailohithkilli@gmail.com
+
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
