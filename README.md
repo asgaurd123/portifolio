@@ -51,7 +51,7 @@ Check the offical python document if youre a beginner [Documentation](https://do
 
 
 ## 🚀 About Me
-I'm a aspiring full stack devlooper who is constantly learning and building new projects
+I'm an aspiring full stack devloper who is constantly learning and building new projects
 
 
 ## Feedback
