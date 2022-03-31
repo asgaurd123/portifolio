@@ -41,7 +41,7 @@ Start the server
 ```bash
   python manage.py runserver
 ```
-## Preview
+## Here is the Preview
 ![demo](https://user-images.githubusercontent.com/89977344/161102324-a369a0a7-93ff-47ec-aa88-fa200dad7006.PNG)
 
 
