@@ -66,5 +66,5 @@ What did you learn while building this project? What challenges did you face and
 
 ## StackOverflow
 
-If you face any problems while excecuting the code dont panic and visit
+If you face any problems while excecuting the code visit
 [StackOverflow](https://stackoverflow.com/)
