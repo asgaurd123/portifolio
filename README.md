@@ -50,18 +50,10 @@ Start the server
 Check the offical python document if youre a beginner [Documentation](https://docs.python.org/3/tutorial/index.html)
 
 
-## 🚀 About Me
-I'm an aspiring full stack devloper who is constantly learning and building new projects
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at sailohithkilli@gmail.com
 
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 
 ## StackOverflow
